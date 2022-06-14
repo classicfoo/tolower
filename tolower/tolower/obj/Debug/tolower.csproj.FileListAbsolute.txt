@@ -1,0 +1,10 @@
+C:\Users\micha\Desktop\tolower\tolower\bin\Debug\tolower.exe.config
+C:\Users\micha\Desktop\tolower\tolower\bin\Debug\tolower.exe
+C:\Users\micha\Desktop\tolower\tolower\bin\Debug\tolower.pdb
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.Form1.resources
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.Properties.Resources.resources
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.exe
+C:\Users\micha\Desktop\tolower\tolower\obj\Debug\tolower.pdb
